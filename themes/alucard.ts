@@ -41,6 +41,7 @@ export const alucardTheme: ThemeDefinition = {
     markupDelimiter: "2A6B45",
     markupAttribute: "036A96",
     tagAttributeChrome: "C5CDE0",
+    activeTabText: "1F1F1F",
   },
   fontName: "Consolas",
   fontSize: "10",
