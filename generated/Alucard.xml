@@ -1020,7 +1020,7 @@
         <WidgetStyle name="Mark Style 5" styleID="21" bgColor="644AC9" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="E2DECA" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="5A5640" fontName="" fontSize=""></WidgetStyle>
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="1F1F1F" bgColor="E2DECA" fontName="" fontSize=""></WidgetStyle>
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="FFFBEB" bgColor="E2DECA" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="1F1F1F" bgColor="FFFBEB" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Tab color 1" styleID="0" bgColor="846E15" fontName="" fontSize=""></WidgetStyle>
         <WidgetStyle name="Tab color 2" styleID="0" bgColor="A34D14" fontName="" fontSize=""></WidgetStyle>
